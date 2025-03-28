@@ -11,7 +11,6 @@ com/synthlab/synthlab_api/Services/AvatarService.class
 com/synthlab/synthlab_api/SynthlabApiApplication.class
 com/synthlab/synthlab_api/Repositories/LeccionContenidoRepository.class
 com/synthlab/synthlab_api/Config/SecurityConfig.class
-com/synthlab/synthlab_api/Config/CorsConfig.class
 com/synthlab/synthlab_api/Entities/User.class
 com/synthlab/synthlab_api/Repositories/UserRepository.class
 com/synthlab/synthlab_api/Controllers/ApiController.class
