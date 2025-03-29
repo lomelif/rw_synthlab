@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.synthlab.synthlab_api.SynthlabApiApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.079 s -- in com.synthlab.synthlab_api.SynthlabApiApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.122 s -- in com.synthlab.synthlab_api.SynthlabApiApplicationTests
